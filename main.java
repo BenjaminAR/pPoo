@@ -1,5 +1,7 @@
 import java.util.*;
 
+//https://paiza.io/projects/DxWFbsS714U13-pS4IkLSg?language=java
+
 public class Main {
     public static void main(String[] args) throws Exception {
         
