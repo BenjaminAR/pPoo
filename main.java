@@ -1,6 +1,7 @@
 import java.util.*;
 
 //https://paiza.io/projects/DxWFbsS714U13-pS4IkLSg?language=java
+//https://paiza.io/projects/oBsrWyzB0wgpF6avMpG2VQ // Figuras geometricas
 
 public class Main {
     public static void main(String[] args) throws Exception {
